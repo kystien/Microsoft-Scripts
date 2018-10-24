@@ -23,4 +23,3 @@ Win7-domain-cleantmpfiles.ps1
 Win10-domain-clean-tmpfiles.ps1
 Win10-domain-cleantmpfiles.ps1
   Same as above but for Windows 10 systems.
-  
