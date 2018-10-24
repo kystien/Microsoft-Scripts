@@ -14,7 +14,7 @@ Win10-local-cleantmpfiles.ps1
   Same as the two windows 7 scripts.
   
 Domain scripts
-Win7-domain-clean-tmpfiles.ps1
+Win7-domain-clean-tmpfiles.ps1 \n
   A long written script to clear temporary files from domain connected systems.
 
 Win7-domain-cleantmpfiles.ps1
