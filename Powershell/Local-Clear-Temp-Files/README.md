@@ -2,7 +2,7 @@ Clear your temp files on local network computers and on a domain.
 
 8 files are here.
 
-Local (or otherwise known as Home Networks) scripts
+Local (or otherwise known as Home Network) scripts
 Win7-local-clean-tmpfiles.ps1
   A long written script to clear temporary files from local network systems.
 
