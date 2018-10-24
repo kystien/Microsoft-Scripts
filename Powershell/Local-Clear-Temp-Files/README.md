@@ -2,7 +2,7 @@ Clear your temp files on local network computers and on a domain.<br />
 <br />
 8 files are here.<br />
 <br />
-Local (or otherwise known as Home Network) scripts <br />
+<b>Local (or otherwise known as Home Network) scripts</b><br />
 Win7-local-clean-tmpfiles.ps1<br />
   A long written script to clear temporary files from local network systems.<br />
 <br />
@@ -14,7 +14,7 @@ Win10-local-cleantmpfiles.ps1<br />
   Same as the two Windows 7 scripts but for Windows 10.<br />
   <br />
   <br />
-Domain scripts<br />
+<b>Domain scripts</b><br />
 Win7-domain-clean-tmpfiles.ps1<br />
   A long written script to clear temporary files from domain connected systems.<br />
 <br />
